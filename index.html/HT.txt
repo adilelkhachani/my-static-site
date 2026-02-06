@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cloud Site</title>
+</head>
+<body>
+<h1>Hello — My Website is Live 🚀</h1>
+<p>Deployed using Netlify</p>
+</body>
+</html>
